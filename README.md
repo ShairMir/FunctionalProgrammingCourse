@@ -1,2 +1,0 @@
-# FunctionalProgrammingCourse
-Created with CodeSandbox
